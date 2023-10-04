@@ -8,6 +8,9 @@
 * 後端：PHP
 * 資料庫：MySQL
 
+
+<img width="425" alt="image" src="https://github.com/lucy70381/online-music-system/assets/43696299/77d6f5a5-e8ac-4a76-b47a-cdea386790a2">
+
 ### 工具
 * XAMPP
 * FileZilla
@@ -35,3 +38,9 @@
 
 6. 聯繫我們：
     * 用戶可以通過首頁的表單輕鬆與我們聯繫，提供反饋、建議或詢問問題。
+  
+![image](https://github.com/lucy70381/online-music-system/assets/43696299/86e21089-6180-4f55-a709-5a96893bae14)
+
+<img width="1172" alt="image" src="https://github.com/lucy70381/online-music-system/assets/43696299/db4e1348-18a2-46d8-a221-6eb559b58a73">
+
+![image](https://github.com/lucy70381/online-music-system/assets/43696299/2c79cb1e-1048-48a2-86ab-87cce3e11365)

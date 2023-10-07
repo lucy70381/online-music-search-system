@@ -38,9 +38,51 @@
 
 6. 聯繫我們：
     * 用戶可以通過首頁的表單輕鬆與我們聯繫，提供反饋、建議或詢問問題。
-  
-![image](https://github.com/lucy70381/online-music-system/assets/43696299/86e21089-6180-4f55-a709-5a96893bae14)
 
-<img width="1172" alt="image" src="https://github.com/lucy70381/online-music-system/assets/43696299/db4e1348-18a2-46d8-a221-6eb559b58a73">
+## 首頁
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/646d5de0-75fc-4bc6-b060-b0f02a6474db">
+
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/16ae3a8f-ea82-4aa9-8aab-6462ba1e6090">
+
 
 ![image](https://github.com/lucy70381/online-music-system/assets/43696299/2c79cb1e-1048-48a2-86ab-87cce3e11365)
+
+### 歌曲介紹、評論
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/faf2ea08-8f37-4ed7-9887-e3f80368253a">
+
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/ee4f1a06-fb55-4356-920b-169b69df2ece">
+
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/f4b1895b-8596-4bdf-a43b-88c918f1c401">
+
+### 會員選單 (未登入, Premium, Admin)
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-system/assets/43696299/db4e1348-18a2-46d8-a221-6eb559b58a73">
+
+
+### 註冊
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/b7c9b832-cf30-43ec-8c5a-eba6264471c5">
+
+
+### 登入
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/9f46a9bc-f214-416e-ad09-e695a02b84cc">
+
+
+### 後台 - 會員資料修改 (All users)
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/750f042d-023e-4f06-a701-559f939ab50f">
+
+### 後台 - 管理會員 (Admin)
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/ac4a9692-959c-4670-9e85-eb9c74bd0e7b">
+
+
+## 後台 - 歌曲上傳/下載 (Premium, Admin)
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/fe5ee884-0def-4883-812f-7613059a59ef">
+<img width="1620" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/7e0a7138-e895-4786-a75d-6cbc7910d67e">
+
+
+### 後台 - 管理歌曲上架 (Admin)
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/e7652d32-83de-4e45-85c3-761e8f105e17">
+
+### 後台 - 管理首頁表單收到的意見 (Admin)
+<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/55131435-4855-4b28-aa85-12e5e08a26fa">
+
+
+

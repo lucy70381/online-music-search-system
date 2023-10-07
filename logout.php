@@ -25,7 +25,7 @@
 		<?php
 			sleep(2);
 			echo "<script>alert('點擊後跳轉至首頁');</script> "; 
-			echo "<meta http-equiv=REFRESH CONTENT=3;url=../>";
+			echo "<meta http-equiv=REFRESH CONTENT=3;url=./index.php>";
 		?>
 	</body>
 </html>

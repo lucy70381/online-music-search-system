@@ -43,11 +43,11 @@
           VALUES ('$user', '$email', '$msg','$now')";
       if ($conn=mysqli_query($link, $sql) == TRUE) {
         echo "<script>alert('已送出意見');</script> "; 
-        echo "<meta http-equiv=REFRESH CONTENT=0;url=../>";
+        echo "<meta http-equiv=REFRESH CONTENT=0;url=./index.php>";
         mysqli_close($link);
       } else {
         echo "<script>alert('Message格式錯誤');</script> "; 
-        echo "<meta http-equiv=REFRESH CONTENT=0;url=../>";
+        echo "<meta http-equiv=REFRESH CONTENT=0;url=./index.php>";
       }
     }
   }
@@ -91,14 +91,14 @@
         <p class="w3-text-grey">Made by Lucy</p>
       </div>
       <div class="w3-bar-block">
-        <a href="../" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-home fa-fw w3-margin-right"></i>HOME</a> 
+        <a href="./index.php" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-home fa-fw w3-margin-right"></i>HOME</a> 
         <a href="#portfolio" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-th-large fa-fw w3-margin-right"></i>TOP</a> 
         <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-info-circle fa-fw w3-margin-right"></i>ABOUT</a> 
         <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>CONTACT</a>
         <?php 
           if($_SESSION['success'] == true){
             echo "<a href='member/overview.php' onclick='w3_close()' class='w3-bar-item w3-button w3-padding'><i class='fa fa-smile-o fa-fw w3-margin-right'></i>PROFILE</a>";
-            echo "<a href='member/upload.php' onclick='w3_close()' class='w3-bar-item w3-button w3-padding' target='_blank'><i class='fa fa-upload fa-fw w3-margin-right'></i>UPLOAD</a>";
+            echo "<a href='member/upload_music.php' onclick='w3_close()' class='w3-bar-item w3-button w3-padding' target='_blank'><i class='fa fa-upload fa-fw w3-margin-right'></i>UPLOAD</a>";
             echo "<a href='member/file_manager.php' onclick='w3_close()' class='w3-bar-item w3-button w3-padding' target='_blank'><i class='fa fa-download fa-fw w3-margin-right'></i>DOWNLOAD</a>";
             echo "<a href='logout.php' onclick='w3_close()' class='w3-bar-item w3-button w3-padding'><i class='fa fa-user fa-fw w3-margin-right'></i>LOGOUT</a>";
           }
@@ -140,7 +140,7 @@
         <h1><b>Online Music Search System</b></h1>
         <div class="w3-section w3-bottombar w3-padding-16">
           <span class="w3-margin-right">Filter:</span> 
-          <button class="w3-button w3-black" onclick="location.href = '../'">ALL</button>
+          <button class="w3-button w3-white" onclick="location.href = './index.php'">ALL</button>
           <button class="w3-button w3-white" onclick="location.href = '?search=Chinese'">
             <i class="fa fa-music w3-margin-right"></i>Chinese</button>
           <button class="w3-button w3-white w3-hide-small" onclick="location.href = '?search=English'">

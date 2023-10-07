@@ -4,7 +4,7 @@
 		if($_SESSION['success'] == true){
 			sleep(5);
 			echo "<script>alert('已登入 點擊後跳轉頁面');</script> "; 
-			echo "<meta http-equiv=REFRESH CONTENT=1;url=../>";
+			echo "<meta http-equiv=REFRESH CONTENT=1;url=./index.php>";
 		}
 	}
 	else{
@@ -119,11 +119,11 @@
 					<span class="error"><?php echo $idErr;?></span><br><br>
 					<input type="password" name="password" size="25" placeholder="Password" required value="<?php echo $password;?>">
 					<span class="error"><?php echo $passwordErr;?></span><br><br>
-					<button class="w3-button w3-margin-bottom w3-padding" style="float: right;color:white;">Log in</button><br><br>
-						<div style="text-align:center;font-family:'Raleway', sans-serif;font-size: 20px;"">
-							Don't have an account?
-							<a href="register.php" class="w3-button w3-margin-bottom w3-padding" style='color:green;'>Sign up</a>
-						</div>
+					<p style="text-align:center;font-family:'Raleway', sans-serif;font-size: 20px;">
+						Don't have an account?
+						<a href="register.php" class="w3-button w3-margin-bottom w3-padding" style='color:green;'>Sign up</a>
+						<button class="w3-button w3-margin-bottom w3-padding" style="float: right;color:white;">Log in</button><br><br>
+					</p>
 				</form>
 		</div>
 	</body>

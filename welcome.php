@@ -37,7 +37,7 @@
 		<?php
 			if($_SESSION['success'] == true){
 				echo "<script>alert('點擊後跳轉頁面');</script> "; 
-				echo "<meta http-equiv=REFRESH CONTENT=3;url=../>";
+				echo "<meta http-equiv=REFRESH CONTENT=3;url=./index.php>";
 				
 			}
 			else{

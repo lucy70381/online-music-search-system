@@ -9,7 +9,7 @@
 * 資料庫：MySQL
 
 
-<img width="425" alt="image" src="https://github.com/lucy70381/online-music-system/assets/43696299/77d6f5a5-e8ac-4a76-b47a-cdea386790a2">
+<img width="425" alt="1" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/61d08a16-d2e3-46af-a1a5-a05189a988de">
 
 ### 工具
 * XAMPP
@@ -40,49 +40,49 @@
     * 用戶可以通過首頁的表單輕鬆與我們聯繫，提供反饋、建議或詢問問題。
 
 ## 首頁
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/646d5de0-75fc-4bc6-b060-b0f02a6474db">
+<img width="794" alt="2" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/ac8a81c4-34c8-44ed-8ba3-2b689d501fcb">
 
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/16ae3a8f-ea82-4aa9-8aab-6462ba1e6090">
+<img width="794" alt="3" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/677fdac9-4d07-4304-9fac-e2f20c0e1a80">
 
-
-![image](https://github.com/lucy70381/online-music-system/assets/43696299/2c79cb1e-1048-48a2-86ab-87cce3e11365)
+<img width="794" alt="4" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/e00b381d-3dd2-40be-9f76-fb7a8706d577">
 
 ### 歌曲介紹、評論
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/faf2ea08-8f37-4ed7-9887-e3f80368253a">
+<img width="794" alt="5" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/9591a407-6432-4abd-a722-e3a16d50e30d">
 
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/ee4f1a06-fb55-4356-920b-169b69df2ece">
+<img width="794" alt="6" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/ef0af500-eb35-42fe-9a09-5840d756ee4e">
 
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/f4b1895b-8596-4bdf-a43b-88c918f1c401">
+<img width="794" alt="7" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/1b9ddca8-8672-4bac-a92d-aa7da25ff44a">
 
 ### 會員選單 (未登入, Premium, Admin)
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-system/assets/43696299/db4e1348-18a2-46d8-a221-6eb559b58a73">
+<img width="794" alt="8" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/bc2b5919-1a74-41e2-998a-fdfbe6472fc3">
 
 
 ### 註冊
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/b7c9b832-cf30-43ec-8c5a-eba6264471c5">
+<img width="794" alt="9" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/ea769b5d-aabb-43ab-a48b-20cdb9cacc38">
 
 
 ### 登入
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/9f46a9bc-f214-416e-ad09-e695a02b84cc">
+<img width="794" alt="10" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/5b0c535c-823b-46cd-b067-e9aef3655d51">
 
 
 ### 後台 - 會員資料修改 (All users)
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/750f042d-023e-4f06-a701-559f939ab50f">
+<img width="794" alt="11" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/5d728926-39db-429a-b909-d29a55c99cfa">
 
 ### 後台 - 管理會員 (Admin)
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/ac4a9692-959c-4670-9e85-eb9c74bd0e7b">
+<img width="794" alt="12" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/c2b2bb56-213d-4aee-b510-616b3354bdf4">
 
 
 ## 後台 - 歌曲上傳/下載 (Premium, Admin)
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/fe5ee884-0def-4883-812f-7613059a59ef">
-<img width="1620" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/7e0a7138-e895-4786-a75d-6cbc7910d67e">
+<img width="794" alt="13" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/d16fe837-6c1c-43c2-90e3-8e79af2cb2e3">
 
+<img width="794" alt="14" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/124d0372-10ad-49f0-a341-5980e1c6a800">
 
 ### 後台 - 管理歌曲上架 (Admin)
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/e7652d32-83de-4e45-85c3-761e8f105e17">
+<img width="794" alt="15" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/6d736daf-63fc-4c0a-aec2-4976ada2235f">
+
 
 ### 後台 - 管理首頁表單收到的意見 (Admin)
-<img width="794" alt="image" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/55131435-4855-4b28-aa85-12e5e08a26fa">
+<img width="794" alt="16" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/9ea7e071-36d4-4130-b74f-65fa4f359fb9">
 
 
 

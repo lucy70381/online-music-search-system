@@ -39,7 +39,7 @@
 6. 聯繫我們：
     * 用戶可以通過首頁的表單輕鬆與我們聯繫，提供反饋、建議或詢問問題。
 
-## 首頁
+### 首頁
 <img width="794" alt="2" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/ac8a81c4-34c8-44ed-8ba3-2b689d501fcb">
 
 <img width="794" alt="3" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/677fdac9-4d07-4304-9fac-e2f20c0e1a80">
@@ -72,7 +72,7 @@
 <img width="794" alt="12" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/c2b2bb56-213d-4aee-b510-616b3354bdf4">
 
 
-## 後台 - 歌曲上傳/下載 (Premium, Admin)
+### 後台 - 歌曲上傳/下載 (Premium, Admin)
 <img width="794" alt="13" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/d16fe837-6c1c-43c2-90e3-8e79af2cb2e3">
 
 <img width="794" alt="14" src="https://github.com/lucy70381/online-music-search-system/assets/43696299/124d0372-10ad-49f0-a341-5980e1c6a800">
